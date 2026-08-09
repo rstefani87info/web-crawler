@@ -1,5 +1,5 @@
 {
-  "name": "web-crawler",
+  "name": "@ares/web-crawler",
   "version": "1.0.0",
   "description": "A simple way to crawl a web site",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/rstefani87info/ares-web-crawler#readme",
   "dependencies": {
-    "@ares/web-ui": "git+https://github.com/rstefani87info/ares-web-ui.git#master",
+    "@ares/web-ui": "workspace:^",
     "axios": "^1.7.2",
     "cheerio": "^1.0.0-rc.12",
     "css-select": "^5.1.0",
