@@ -28,5 +28,8 @@
     "css-select": "^5.1.0",
     "request": "^2.88.2",
     "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {
+    "@ares/scd": "workspace:^"
   }
 }
